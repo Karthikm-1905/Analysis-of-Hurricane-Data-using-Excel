@@ -1,5 +1,5 @@
 # Analysis-of-Hurricane-Data-using-Excel
-## Overview-
+# Overview-
 This project explores hurricane data through various analytical techniques and visualizations. Using Excel, we analyzed and visualized hurricane patterns, intensity, and impact across different regions and time frames. Key insights include hurricane frequency by month, intensity categorization, central pressure versus maximum wind speed relationships, and state-wise occurrence frequencies.
 
 # Project Structure- 
